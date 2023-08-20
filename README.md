@@ -10,7 +10,8 @@ Repositório para armazenar resumos sobre GIT e GITHUB do Bootcamp Santander da 
 ## 💻Resumos das aulas
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alterações no repositório local|[resumo]()|
+|Aula 01|[resumo]()|
+|Aula 02|[resumo]()|
 
 ```
 git init 
